@@ -1,0 +1,13 @@
+{
+  "name": "crypt-api-server",
+  "version": "1.0.0",
+  "description": "communicator to cypto exchanges",
+  "license": "ISC",
+  "author": "Doug Lewis",
+  "type": "commonjs",
+  "main": "src/server.ts",
+  "scripts": {
+    "start": "node dist/server.js",
+    "build": "tsc"
+  }
+}
